@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush-Mishra-10/NodeBasic.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Piyush Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piyush-Mishra-10/NodeBasic/issues"
+  },
+  "homepage": "https://github.com/Piyush-Mishra-10/NodeBasic#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
